@@ -143,5 +143,5 @@ At this time, there are no known bugs.
 **AirBnB Clone** is open source and free to download and use
 
 ## Author
-@ [ESE AMADASUNESE](https://github.com/amadasunese)
+@ [ESE AMADASUN](https://github.com/amadasunese)
 @ [BIRHAN KASSAYE](https://github.com/birhan-kassaye)
